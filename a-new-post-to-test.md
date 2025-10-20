@@ -1,6 +1,6 @@
 ---
 title: A new Post
-slug: a-new-post
+slug: a-new-post-to-test
 tags:
   - test
 date: 2025-10-20
