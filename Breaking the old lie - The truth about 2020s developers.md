@@ -1,4 +1,5 @@
 ---
+title: Breaking the Old Lie - The truth about 2020s developers
 slug: the-truth-about-2020s-developers
 headline: How the developers generation faces a critical market and their mistakes while facing new trends.
 date: 2025-10-18
